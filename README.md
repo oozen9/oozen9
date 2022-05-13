@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Onur Özen .
+- 👀 I’m interested in C# coding .
+- 🌱 I’m currently learning C# and MsSQL . 
+- 💞️ I’m looking to collaborate on C# automation development .
+- 📫 How to reach me 
+- Email = onurozen90@icloud.com
